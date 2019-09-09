@@ -1,0 +1,118 @@
+container {
+    display: "flex";
+    flexDirection: "row";
+    alignItems: "center";
+    justifyContent: "flex-start";
+    position: "relative";
+    paddingTop: "10px"
+}
+
+
+hotel_wrap_p {
+    lineHeight: 0
+}
+
+
+hotel_wrap_title {
+    fontSize: "16px"
+}
+
+
+hotel_wrap_content {
+    fontSize: "14px";
+    color: "#535366"
+}
+
+
+hotel_wrap_content_item {
+    lineHeight: "15px"
+}
+
+
+hotel_wrap_content_item_sm {
+    lineHeight: "8px"
+}
+
+
+hotelImg {
+    width: "60px";
+    height: "75px";
+    marginRight: "20px"
+}
+
+
+hotelImgBig {
+    width: "60px";
+    height: "85px";
+    marginRight: "20px"
+}
+
+
+badge {
+    backgroundColor: "#fff";
+    borderRadius: 2;
+    color: "#535365";
+    border: "1px solid #9999A3";
+    borderRadius: "4px";
+    marginRight: "5px";
+    fontSize: "10px";
+    lineHeight: "20px"
+}
+
+
+flexC {
+    display: "flex";
+    flexDirection: "column";
+    alignItems: "flex-start";
+    justifyContent: "space-between";
+    height: "60px"
+}
+
+
+aircontainer {
+    display: "flex";
+    flexDirection: "column";
+    alignItems: "flex-start";
+    justifyContent: "flex-start"
+}
+
+
+airtitle {
+    fontSize: "16px"
+}
+
+
+grayText {
+    fontSize: "14px";
+    color: "#9999A3";
+    marginLeft: "20px"
+}
+
+
+payBtn {
+    width: "80px";
+    height: "30px";
+    color: "#fff";
+    backgroundColor: "#1687FF";
+    lineHeight: "30px";
+    textAlign: "center";
+    borderRadius: "6px";
+    position: "absolute";
+    top: "0";
+    right: 0
+}
+
+
+hotelpayBtn {
+    width: "80px";
+    height: "30px";
+    color: "#fff";
+    backgroundColor: "#1687FF";
+    lineHeight: "30px";
+    textAlign: "center";
+    borderRadius: "6px";
+    position: "absolute";
+    top: "50%";
+    right: 0;
+    marginTop: "-15px"
+}

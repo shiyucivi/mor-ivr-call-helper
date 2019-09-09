@@ -1,0 +1,3 @@
+.am-radio.am-radio-checked .am-radio-inner:after{
+  border-color:#eeab00 !important;
+}

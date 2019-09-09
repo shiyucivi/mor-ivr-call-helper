@@ -1,0 +1,49 @@
+.header {
+/*<<<<<<< HEAD*/
+  position: absolute;
+  height: 78px;
+  width: 100%;
+}
+
+.content {
+  width: 100%;
+  display: block;
+  position: absolute;
+  top: 78px;
+  background: #ffffff;
+  bottom: 56px;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+}
+
+.footer {
+  display: flex;
+  float: right;
+  bottom: 0;
+  position: absolute;
+  height: 56px;
+  width: 100%;
+    position: absolute;
+    height: 78px;
+    width: 100%;
+}
+
+.content {
+    width: 100%;
+    display: block;
+    position: absolute;
+    top: 78px;
+    background: #ffffff;
+    bottom: 56px;
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+}
+
+.footer {
+    display: flex;
+    float: right;
+    bottom: 0;
+    position: absolute;
+    height: 56px;
+    width: 100%;
+}
