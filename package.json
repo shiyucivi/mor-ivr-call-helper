@@ -8,7 +8,7 @@
     "crypto-js": "^3.1.9-1",
     "jstreemap": "^1.28.1",
     "moment": "^2.24.0",
-    "qs": "^6.8.0",
+    "qs": "^6.8.3",
     "react": "^16.8.6",
     "react-audio-analyser": "^0.2.5",
     "react-audio-player": "^0.11.0",
